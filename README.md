@@ -1,2 +1,2 @@
 # bix-docker-demo
-Demo setup for bioinformaticians to use Docker
+Demo setup tailored for bioinformaticians to use Docker (minimal BioPython example)
